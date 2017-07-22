@@ -3,9 +3,9 @@
 Snakes is a real-time, multi-player, in-browser game where players use their mobile devices to control snakes on a single, shared game screen. Snakes grow longer when they eat and die when they collide. The objective of the game is to be the last snake standing. Snakes grow longer when they eat and die when they collide. The objective of the game is to be the last snake standing.
 
 # How to Play
-Navigate to [comp](snakeswithfriends.com) on one computer and click "Start new match".
+Navigate to [snakeswithfriends.com](snakeswithfriends.com) on one computer and click "Start new match".
 
-All 4 players should then navigate to [phone](snakeswithfriends.com) on their phones and enter their name.
+All 4 players should then navigate to [snakeswithfriends.com](snakeswithfriends.com) on their phones and enter their name.
 
 When all 4 players have joined, countdown will start and you will enter the game room.
 

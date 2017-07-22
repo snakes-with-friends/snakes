@@ -11,7 +11,7 @@ When all 4 players have joined, countdown will start and you will enter the game
 
 Once in the game room, use your phone as a controller to eat food! Avoid crashing with other snakes.
 
-Last snake slithering wins.
+The last snake slithering wins!
 
 ![screen shot 2017-04-04 at 12 05 10 am](https://cloud.githubusercontent.com/assets/18404383/24641110/b7be9bcc-18ca-11e7-90d0-9b89a387ac8e.png)
 

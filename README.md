@@ -4,13 +4,9 @@ Snakes is a real-time, multi-player, in-browser game where players use their mob
 
 # How to Play
 Navigate to [snakeswithfriends.com](snakeswithfriends.com) on one computer and click "Start new match".
-
 All 4 players should then navigate to [snakeswithfriends.com](snakeswithfriends.com) on their phones and enter their name.
-
-When all 4 players have joined, countdown will start and you will enter the game room.
-
+When all 4 players have joined, a countdown will start and you will enter the game room.
 Once in the game room, use your phone as a controller to eat food! Avoid crashing with other snakes.
-
 The last snake slithering wins!
 
 ![screen shot 2017-04-04 at 12 05 10 am](https://cloud.githubusercontent.com/assets/18404383/24641110/b7be9bcc-18ca-11e7-90d0-9b89a387ac8e.png)
